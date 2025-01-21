@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(200, 121, 168);
+}
+div{
+    background-color: rgb(226, 143, 143);
+    width: 50%; 
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(170, 11, 11, 0.5);
+}
